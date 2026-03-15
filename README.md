@@ -23,7 +23,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/RohanKonda1502" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/RohanKonda1502" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/Rohan-Saieswar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Rohan-Saieswar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left"># 👨‍💻 Rohan Konda — Developer
 
@@ -47,7 +47,7 @@ and constantly improving my development workflow.
 - 🌱 I'm currently learning: **📚 Python, Git, Linux fundamentals, and deeper problem-solving approaches**
 - 💬 Ask me about: **💡 💬 Python, automation ideas, Linux setups, Git workflows, and how I approach learning projects**
 - ⚡ Fun fact: **🎢 ⚡ I’ve spent more time debugging than coding—and I’m proud of it.**
-- 📂 Portfolio: **<a href="🗂 Portfolio: (coming soon)   🔗 GitHub: https://github.com/RohanKonda1502" target="_blank">🗂 Portfolio: (coming soon)   🔗 GitHub: https://github.com/RohanKonda1502</a>**
+- 📂 Portfolio: **<a href="🗂 Portfolio: (coming soon)   🔗 GitHub: https://github.com/Rohan-Saieswar" target="_blank">🗂 Portfolio: (coming soon)   🔗 GitHub: https://github.com/Rohan-Saieswar</a>**
 - 📝 Blog: **<a href="📝 Blog: (coming soon — planning to share notes, learnings & project write-ups)" target="_blank">📝 Blog: (coming soon — planning to share notes, learnings & project write-ups)</a>**
 
 
@@ -58,16 +58,16 @@ and constantly improving my development workflow.
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RohanKonda1502&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=RohanKonda1502&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohan-Saieswar&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Rohan-Saieswar&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
  **<h3 align="left">Pacman Contribution Graph</h3>**
 
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanKonda1502/RohanKonda1502/refs/heads/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanKonda1502/RohanKonda1502/refs/heads/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RohanKonda1502/RohanKonda1502/refs/heads/output/pacman-contribution-graph-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohan-Saieswar/Rohan-Saieswar/refs/heads/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohan-Saieswar/Rohan-Saieswar/refs/heads/output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rohan-Saieswar/Rohan-Saieswar/refs/heads/output/pacman-contribution-graph-light.svg">
 </picture>
 </div>
